@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "hermitao_mod",
+    "name": "Hermitao Mod",
+    "authors": [ "Hermitao" ],
+    "maintainers": [ "Hermitao" ],
+    "description": "Tweak some random stuff on the game to my liking.",
+    "category": "accessibility",
+    "dependencies": [ "dda" ]
+  }
+]
